@@ -1,0 +1,44 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+# data
+data/*
+!data/brain_img75.mat
+!data/brain_img79.mat
+!data/brain_img83.mat
+!data/synthetic_inhomogeneous_img5.mat
+!data/synthetic_noise_gaussian30.mat
+!data/synthetic_noise_pepper20.mat
+!data/synthetic_noise_rand20.mat
+!data/synthetic_noise_speckle20.mat
+
+# figures
