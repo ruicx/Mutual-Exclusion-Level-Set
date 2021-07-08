@@ -16,11 +16,14 @@ If you find this code useful, please cite the following:
 
 ``` bibtex
 @article{Yang2021,
-    author = {Yang, Yunyun and Xie, Ruicheng and Jia, Wenjing},
-    doi = {0.1016/j.knosys.2021.107266},
+    author = {Yang, Yunyun and Xie, Ruicheng and Jia, Wenjing and Zhao, Gang},
+    doi = {10.1016/j.knosys.2021.107266},
     journal = {Knowledge-Based Systems},
-    publisher = {Elsevier B.V.},
-    title = {Double level set segmentation model based on mutual exclusion of adjacent regions with application to brain MR images},
+    month = {sep},
+    pages = {107266},
+    publisher = {Elsevier},
+    title = {{Double level set segmentation model based on mutual exclusion of adjacent regions with application to brain MR images}},
+    volume = {228},
     year = {2021}
 }
 ```
